@@ -9,7 +9,7 @@ The **🛡️ CyberGhost VPN** is a powerful, user-friendly virtual private netw
 
 <div align="center">
 
-[![Download CyberGhost VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cyberghost-vpn-git)
+[![Download CyberGhost VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cyberghost-vpn-git)
 
 </div>
 
@@ -113,7 +113,7 @@ You need a VPN. Encrypted. Anonymous. Reliable.
 6. **🔑 Create account or log in** — free account included
 7. **⚡ Click "Connect"** — you're protected
 
-[![Download CyberGhost VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cyberghost-vpn-git)
+[![Download CyberGhost VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cyberghost-vpn-git)
 
 ### Step-by-Step (Detailed)
 
@@ -380,7 +380,7 @@ Hide your IP. Encrypt your traffic. Access global content. **CyberGhost VPN** gi
 
 <div align="center">
 
-[![Download CyberGhost VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cyberghost-vpn-git)
+[![Download CyberGhost VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cyberghost-vpn-git)
 
 **Version 8.3.1** — Secure & anonymous connection. Free forever.
 
